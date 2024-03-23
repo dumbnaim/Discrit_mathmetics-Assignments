@@ -1,1 +1,1 @@
-# Discrit_mathmetics-Assignments
+Rename CS200_Discrit_Logic_Assignment_Naim_Rahman_Ifti_20037 to 
