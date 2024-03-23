@@ -29,6 +29,7 @@ print("10mn + 7 is odd:", is_odd)
 print("m^2 - n^2 is composite when m > n > 0:", is_m2_n2_composite)
 
 
+
 Output:  
 6m + 8n is even: True
 10mn + 7 is odd: True
